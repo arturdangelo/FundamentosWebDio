@@ -1,0 +1,15 @@
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\bin\Debug\net6.0\Fundamentos.exe
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\bin\Debug\net6.0\Fundamentos.deps.json
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\bin\Debug\net6.0\Fundamentos.runtimeconfig.json
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\bin\Debug\net6.0\Fundamentos.dll
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\bin\Debug\net6.0\Fundamentos.pdb
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.AssemblyReference.cache
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\Fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfoInputs.cache
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\Fundamentos.AssemblyInfo.cs
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\Fundamentos.csproj.CoreCompileInputs.cache
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\Fundamentos.dll
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\refint\Fundamentos.dll
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\Fundamentos.pdb
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\Fundamentos.genruntimeconfig.cache
+D:\Artur D'Angelo\Documents\Programacao\Web Dio\1. Fundamentos .NET\Fundamentos Desafio - Visual Studio Community\Fundamentos\Fundamentos\obj\Debug\net6.0\ref\Fundamentos.dll
